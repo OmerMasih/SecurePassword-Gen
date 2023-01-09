@@ -1,5 +1,7 @@
 # SecurePassword-Gen
-## The password has the folloewing criteria.
+## The following description demonstrated the password criteria for password generator.
+
+
 
 1- GIVEN I need a new, secure password
 
@@ -30,3 +32,8 @@
 14- WHEN the password is generated
 
 15- THEN the password is either displayed in an alert or written to the page
+
+## Following is the image that demonstrate the password Generator
+
+![_Users_masihullah_Downloads_password-jen_index html](https://user-images.githubusercontent.com/111917255/211231354-b2222c4a-717c-4b53-9b37-70a2ca9e7de6.png)
+
